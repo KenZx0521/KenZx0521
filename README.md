@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenZx0521)](https://github.com/KenZx0521/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenZx0521&show_icons=true&theme=radical)
+![KenZx0521's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenZx0521&show_icons=true&theme=radical)
 
 
 
