@@ -22,9 +22,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KenZx0521)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenZx0521)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KenZx0521)](https://github.com/KenZx0521/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzx0521&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KenZx0521&show_icons=true&theme=radical)
 
 
 
