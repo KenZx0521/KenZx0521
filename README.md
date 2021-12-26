@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Khan
-![image](Portal Tech Co..gif)
 #### I am a student from Taiwan
 
 <h3 align="left">Skills:</h3>
