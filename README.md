@@ -2,7 +2,7 @@
 # Hi there 👋, my name is Khan
 ### I am a student from Taiwan, I'm currently learning Data Science, Software engineering and Algorithms
 
-### How to contact with me:
+### How to contact me:
 #### Gmail✉️: Nivramnitsud@gmail.com
 #### (Phone) Number📲: (+886)0909859967
 #### LinkedIn: https://www.linkedin.com/in/chung-ko-han-4b4394227
